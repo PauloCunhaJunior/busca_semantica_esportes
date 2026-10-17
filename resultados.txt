@@ -1,0 +1,86 @@
+Documentos armazenados: 12
+
+Consulta 1: Em qual esporte se fazem pontos acertando um alvo elevado?
+ID: esp-02
+Documento: No basquete, os jogadores somam pontos ao lançar a bola dentro da cesta adversária.
+Metadata: {'categoria': 'modalidade', 'tipo': 'coletivo'}
+Distância: 0.46691375970840454
+
+ID: esp-05
+Documento: No atletismo, provas de corrida, salto e arremesso medem velocidade, distância ou altura.
+Metadata: {'tipo': 'individual', 'categoria': 'modalidade'}
+Distância: 0.4895678758621216
+
+ID: esp-07
+Documento: No ciclismo, o competidor pedala uma bicicleta em percursos de estrada ou pista.
+Metadata: {'tipo': 'individual', 'categoria': 'modalidade'}
+Distância: 0.49322134256362915
+
+
+Consulta 2: Como se chama a modalidade com provas de crawl e borboleta?
+ID: esp-04
+Documento: Na natação, os atletas percorrem uma piscina usando estilos como crawl, costas, peito e borboleta.
+Metadata: {'tipo': 'aquatico', 'categoria': 'modalidade'}
+Distância: 0.3737126588821411
+
+ID: esp-03
+Documento: No vôlei, cada equipe procura fazer a bola tocar o chão da quadra adversária por cima da rede.
+Metadata: {'categoria': 'modalidade', 'tipo': 'coletivo'}
+Distância: 0.474393367767334
+
+ID: esp-07
+Documento: No ciclismo, o competidor pedala uma bicicleta em percursos de estrada ou pista.
+Metadata: {'categoria': 'modalidade', 'tipo': 'individual'}
+Distância: 0.5113498568534851
+
+
+Consulta 3: Qual a importância da recuperação muscular entre treinos?
+ID: esp-11
+Documento: O descanso entre treinos permite a recuperação muscular e evita sobrecarga.
+Metadata: {'categoria': 'treinamento', 'tipo': 'recuperacao'}
+Distância: 0.10628068447113037
+
+ID: esp-09
+Documento: O aquecimento prepara músculos e articulações antes do exercício e ajuda a reduzir lesões.
+Metadata: {'categoria': 'treinamento', 'tipo': 'preparacao'}
+Distância: 0.4656715393066406
+
+ID: esp-08
+Documento: No judô, o praticante busca projetar ou imobilizar o adversário no tatame.
+Metadata: {'categoria': 'modalidade', 'tipo': 'luta'}
+Distância: 0.5018438696861267
+
+
+Busca filtrada na categoria 'treinamento':
+ID: esp-11
+Documento: O descanso entre treinos permite a recuperação muscular e evita sobrecarga.
+Metadata: {'categoria': 'treinamento', 'tipo': 'recuperacao'}
+Distância: 0.10628068447113037
+
+ID: esp-09
+Documento: O aquecimento prepara músculos e articulações antes do exercício e ajuda a reduzir lesões.
+Metadata: {'categoria': 'treinamento', 'tipo': 'preparacao'}
+Distância: 0.4656715393066406
+
+ID: esp-12
+Documento: A corrida de longa distância exige resistência e controle do ritmo ao longo do percurso.
+Metadata: {'tipo': 'resistencia', 'categoria': 'treinamento'}
+Distância: 0.6791974306106567
+
+
+Pergunta com palavras diferentes: Qual esporte utiliza uma bike em competições?
+ID: esp-07
+Documento: No ciclismo, o competidor pedala uma bicicleta em percursos de estrada ou pista.
+Metadata: {'tipo': 'individual', 'categoria': 'modalidade'}
+Distância: 0.3726397752761841
+
+ID: esp-06
+Documento: No tênis, os participantes usam raquetes para rebater a bola sobre uma rede.
+Metadata: {'categoria': 'modalidade', 'tipo': 'raquete'}
+Distância: 0.45822322368621826
+
+ID: esp-08
+Documento: No judô, o praticante busca projetar ou imobilizar o adversário no tatame.
+Metadata: {'tipo': 'luta', 'categoria': 'modalidade'}
+Distância: 0.5157164335250854
+
